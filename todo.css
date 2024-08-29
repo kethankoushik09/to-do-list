@@ -133,7 +133,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url("tick.jpg");
+    background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgb2qEtDLszXOgSWCFYnhdcl0Wd2hhYXSvv7zIm95kjGc1dyTx");
     background-size: cover;
 }
 .un-list{
