@@ -31,7 +31,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. T
 
 ## Hosting on GitHub Pages
 
-This application is hosted on GitHub Pages. You can access it [here](https://kethankoushik09.github.io/to-do-list/).
+This application is hosted on GitHub Pages. You can access it [here]( https://kethankoushik09.github.io/to-do-list/).
 
 ## Files in the Project
 
